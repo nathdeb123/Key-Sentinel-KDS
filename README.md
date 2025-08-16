@@ -88,6 +88,7 @@ python Main.py
 ```
 ### Dependencies
 -- Core Dependencies --
+```
 @ customtkinter (≥5.2.0): Modern GUI framework
 @ psutil (≥5.9.0): System and process monitoring
 @ pywin32 (≥306): Windows API integration
@@ -97,6 +98,9 @@ python Main.py
 @ threading, time, datetime, hashlib
 @ subprocess, socket, collections, ctypes
 @ winreg, sys, pathlib, base64, tempfile
+```
+
+
 ### Usage
 -- Getting Started --
 • First Launch: Enter admin credentials (default: admin)
