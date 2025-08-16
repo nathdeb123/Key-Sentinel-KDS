@@ -10,6 +10,8 @@ A comprehensive, next-generation anti-keylogger defense system built with Python
 -[Troubleshooting](#Trorubleshooting)
 -[License](#License)
 
+# Password : Admin (default)
+
 ### Features
 ---------------------------
 # Advanced Threat Detection
