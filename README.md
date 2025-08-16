@@ -105,6 +105,7 @@ python Main.py
 
 
 ### Usage
+```
 -- Getting Started --
 • First Launch: Enter admin credentials (default: admin)
 • Dashboard: Overview of system security status
@@ -151,6 +152,7 @@ python Main.py
 - Real-time threat alerts
 - Network monitoring
 - Process protection levels
+```
 
 # Development
 -----------------
