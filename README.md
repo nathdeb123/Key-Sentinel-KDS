@@ -59,11 +59,13 @@ A comprehensive, next-generation anti-keylogger defense system built with Python
 
 
 ### System Requirements
+```
 • Operating System: Windows 10/11 (optimized)
 • Python: 3.8 or higher
 • RAM: 4GB minimum, 8GB recommended
 • Storage: 100MB free space
 • Privileges: Administrator rights (for full functionality)
+```
 
 ### Installation
 Quick Installation
