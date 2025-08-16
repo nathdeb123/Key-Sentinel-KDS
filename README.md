@@ -6,6 +6,7 @@ A comprehensive, next-generation anti-keylogger defense system built with Python
 -[System Requirements](#system-requirements)
 -[Installation](#Installation)
 -[Usage](#usage)
+-[Activation Key](#Activation-key)
 -[Troubleshooting](#Trorubleshooting)
 -[License](#License)
 
@@ -190,6 +191,17 @@ Main/data/
 • Minimal resource footprint
 • Background operation capability
 • Smart caching and optimization
+
+### Activation Key
+```
+# go to the main folder
+cd Main
+# now go to the data folder
+cd data
+# run that game
+python3 game.py
+# After success you will get the hint of the Activation Key.....
+```
 
 ### Troubleshooting
 - Common Issues
