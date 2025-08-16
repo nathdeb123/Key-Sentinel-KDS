@@ -149,6 +149,7 @@ python Main.py
 -----------------
 Project Structure
 -----------------
+```
 Main/data/
 ├── advanced_main.py          # Advanced version
 ├── Main.py                   # Main application-Basic version
@@ -168,6 +169,7 @@ Main/data/
 ├── install.py               # Installation script
 ├── test_functionality.py    # Testing suite
 └── README.md                # Documentation
+```
 
 
 ### Performance
